@@ -1,0 +1,9 @@
+# Unity Burst 调试符号（DoNotShip，运行程序不需要）
+1111_BurstDebugInformation_DoNotShip/
+
+# 系统与编辑器临时文件
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+~$*
